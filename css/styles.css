@@ -166,6 +166,7 @@ a {
     text-align: center;
     color: var(--primary-text-color);
     cursor: pointer;
+    letter-spacing: 0.03em;
 }
 
 .button-menu:hover, 
@@ -179,10 +180,12 @@ a {
     font-size: 18px;
     line-height: 2;
     color: var(--primary-text-color);
+    letter-spacing: 0.06em;
 }
 
 .card-descr {
     font-size: 16px;
     line-height: 1.88;
     color: var(--secondary-text-color);
+    letter-spacing: 0.03em;
 }
